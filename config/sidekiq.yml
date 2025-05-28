@@ -1,0 +1,4 @@
+:schedule:
+  delete_old_posts:
+    cron: "0 * * * *"
+    class: DeleteOldPostsJob

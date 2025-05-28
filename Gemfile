@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'rails', '~> 7.0'
+gem 'pg'
+gem 'puma'
+gem 'bcrypt'
+gem 'jwt'
+gem 'sidekiq'
+gem 'sidekiq-scheduler'
